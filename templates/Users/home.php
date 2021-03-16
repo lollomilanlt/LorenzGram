@@ -79,7 +79,7 @@
 <nav class="navbar navbar-light text-white bg-dark ciao">
     <a class="navbar-brand">
     <img src="/IG/webroot/res/logo.png" width="30" height="30" class="d-inline-block align-top " alt="">
-    DmxGram
+    LorenzGram
     </a>
 </nav>    
 
